@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: *.GOOGLEMAIL.COM
 mx: ASPMX.L.GOOGLE.COM
 max_age: 604800
