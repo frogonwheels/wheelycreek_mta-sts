@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: *.GOOGLEMAIL.COM
-mx: ASPMX.L.GOOGLE.COM
+mx: MAIL.ROLLERNET.US
+mx: MAIL2.ROLLERNET.US
 max_age: 604800
